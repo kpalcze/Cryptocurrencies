@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Crypto</string>
+
+    //strings used in coin list
+    <string name="coin_price_usd">Price (USD):</string>
+    <string name="coin_price_btc">Price (BTC):</string>
+    <string name="coin_price_change_1h">1h:</string>
+    <string name="coin_price_change_24h">24h:</string>
+    <string name="coin_price_change_7d">7d:</string>
+    <string name="coin_list">Coins</string>
+    <string name="favourite_coin_list">Favourites</string>
+    <string name="coin_news">News</string>
+    <string name="news_source">Source:</string>
+</resources>

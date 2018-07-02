@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_favorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite_white_24dp"
+        android:title="@string/favourite_coin_list"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_coins"
+        android:enabled="true"
+        android:icon="@drawable/ic_attach_money_white_24dp"
+        android:title="@string/coin_list"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_news"
+        android:enabled="true"
+        android:icon="@drawable/ic_forum_white_24dp"
+        android:title="@string/coin_news"
+        app:showAsAction="ifRoom" />
+</menu>
